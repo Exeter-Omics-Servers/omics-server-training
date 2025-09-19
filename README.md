@@ -66,3 +66,34 @@ guessing)
     - Generative AI should be discouraged however, users should be able to
     solve problems with at least a little bit of thought. Otherwise the
     training is useless.
+
+## Onboarding
+
+The process set out in [pipeline](#pipeline) might start to break down when
+being applied to an onboarding process. It is probably a waste of time to be
+delivering all of this training to each new employee/student for every new
+starter individually. Ideally onboarding can be done in groups (in general
+PhD students seem to come in groups), if not onboarding may have to wait until
+enough participant slots can be filled.
+
+The above will be less of a problem if more teams are involved in the training
+process (as it will be less likely only a single person needs to be trained).
+
+## Participant availability
+
+We are all busy people, it might be rather difficult to get multiple people in
+the same room at the same time for training.
+
+This can be somewhat mitigated by delivering content in a hybrid setting.
+However, collaborative tasks will likely suffer from this decision and a helper
+will probably be required to assist with those online.
+
+Another method to mitigate this issue is through promoting resources that
+achieve the same learning objectives set out. CFRR courses aren't very
+plentiful, but should still be encouraged (each course also comes with well
+structured course notes). There are also other resources out there, for example
+`git` probably has 1000s of courses online and the 
+[command challenge](www.commandchallenge.com) is an excellent way of becoming
+proficient with bash. Of course we also have our own set of documentation that
+potential participants can be pointed in the direction of.
+
