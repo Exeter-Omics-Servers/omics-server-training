@@ -2,12 +2,12 @@
 
 ## Prerequisites
 
-Users must be able to have access to some POSIX compliant system with a shell
-that is somewhat close to bash (for example, sh, zsh, dash).
+Partipants must be able to have access to some POSIX compliant system with a
+shell that is somewhat close to bash (for example, sh, zsh, dash).
 
 - OSX users should be able to work with iterm (which uses zsh by default)
 - Windows users are a little more tricky there are several options
-    - WSL -> Can be intimidating to set up for some users
+    - WSL -> Can be intimidating to set up for some partipants
     - Git Bash -> Easy to install, won't have all features but basic shell
     operations are possible
     - Powershell is too dissimilar to bash to be used here
@@ -18,7 +18,7 @@ that is somewhat close to bash (for example, sh, zsh, dash).
 
 ### Novice
 
-By the end, novice users should be able to:
+By the end, novice partipants should be able to:
 
 - Explain what GNU/Linux is and why it is commonly used on HPC servers
 - Explain the basics of the Linux file hierarchy structure standard (FHS)
@@ -31,11 +31,12 @@ By the end, novice users should be able to:
     - user input (`read` or command line arguments)
 - Explain the basics behind the permissions system and how to interact with it
 - Use a simple text editor like nano
-    - Some users may prefer vi, vim, emacs or some other terminal text editor
+    - Some partipants may prefer vi, vim, emacs or some other terminal text
+    editor
 
 ### Intermediate
 
-By the end, intermediate users should be able to:
+By the end, intermediate partipants should be able to:
 
 - Know some basic GNU core utils (`awk`, `find`, `sed`, *etc.*)
 - Know what a 'man' page is and how to access and read them
@@ -47,7 +48,8 @@ By the end, intermediate users should be able to:
 
 ### Advanced
 
-Some users may whiz through content. Such users can be directed to learn about:
+Some partipants may whiz through content. Such partipants can be directed to
+learn about:
 
 - Brace expansion (and similar)
 - Traps and signals
@@ -68,7 +70,7 @@ with short tasks, for example:
 internet to fill said gap in.
     - *e.g.* whilst explaining GNU/Linux, ask participants who the key
     contributors to the project are
-- Encourage users to check if what you are saying is true
+- Encourage partipants to check if what you are saying is true
     - *e.g* for permissions, get them to use `sudo` to play around with the
     permissions of some file (can they read it? can they write to it? can they
     execute it? who can/cannot?)
@@ -109,7 +111,7 @@ This encourages learning control flow, variables and user input
 
 ### File manipulation
 
-Tailor some file manipulation task that fits in well with what users might
+Tailor some file manipulation task that fits in well with what partipants might
 normally encounter in their research. For example:
 
 - `awk` can be useful with tabular datasets (columnar operations, row/column
