@@ -138,3 +138,15 @@ wind up being the same value
 Some participant interaction can bring this activity a long way. Again, this is
 just one example of some code. The important thing about this exercise is
 getting participants to think about the ways they can break their code.
+
+### Linter usage
+
+Showcase the power that linters have in the language of choice. Show how they
+can spot syntactical errors on the fly and pick up on common programming
+mistakes. I recommend shellcheck for this one as the wiki is very informative
+of why you want to avoid each of the lints it finds (whilst something like
+lintR is more on the style side of linting). Shellcheck is especially useful
+as the bash language server doesn't do much for you to avoid syntax errors
+(unlike many other language servers). Another boon of using shell check is that
+you don't need the user to integrate the tool into their text editor/IDE, one
+can always use the [webapp](https://www.shellcheck.net).
