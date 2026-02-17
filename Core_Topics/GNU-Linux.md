@@ -30,6 +30,8 @@ By the end, novice partipants should be able to:
     - user input (`read` or command line arguments)
 - Explain the basics behind the permissions system and how to interact with it
 - Know what a 'man' page is and how to access and read them
+    - Specifically: up/down keys, searching, quitting
+    - Knowing how to get help if man pages are not available
 - Use a simple text editor like nano
     - Some partipants may prefer vi, vim, emacs or some other terminal text
     editor
