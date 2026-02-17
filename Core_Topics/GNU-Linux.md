@@ -29,6 +29,7 @@ By the end, novice partipants should be able to:
     - Variables
     - user input (`read` or command line arguments)
 - Explain the basics behind the permissions system and how to interact with it
+- Know what a 'man' page is and how to access and read them
 - Use a simple text editor like nano
     - Some partipants may prefer vi, vim, emacs or some other terminal text
     editor
@@ -39,7 +40,6 @@ By the end, intermediate partipants should be able to:
 
 - Know some basic GNU core utils (`awk`, `find`, `sed`, *etc.*)
 - Explain the basics of the Linux file hierarchy structure standard (FHS)
-- Know what a 'man' page is and how to access and read them
 - Understand terms like 'kernel', 'userspace', 'shell' (*etc.*)
 - Explain what an 'rc' file is
 - Create personal aliases and functions
