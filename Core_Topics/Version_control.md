@@ -49,7 +49,15 @@ learn about:
 
 - Rebasing (fixups, squashing, renaming *etc.*)
 - Other version control systems (perhaps svn or jj)
-- GitHub specifics like workflows, 
+- GitHub specifics like 
+    - Workflows/Actions
+    - Pull requests
+    - Issues
+    - Templates
+    - Pages
+    - Branch protection
+    - Project boards
+    - Milestones
 - Submodules
 - `git bisect`
 - How git and other version control systems actually work (hard)
