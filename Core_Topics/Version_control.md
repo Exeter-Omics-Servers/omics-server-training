@@ -26,6 +26,8 @@ By the end, novice partipants should be able to:
 - Explain why one might want to use version control over simply labelling files
 'V1','V2' (*etc.*)
 - Understand the basic 'add commit' flow of git
+- How to go 'back in time' (with commands like `checkout`, `restore`, `revert`,
+`reset`)
 - Understand the difference between git and GitHub
 - Be able to use repository hosts like GitHub (`push`/`pull`)
 
@@ -39,8 +41,6 @@ repositories)
 - Understand branch switching, creation and deletion
     - And why you might want to use this feature
 - Know what the `.gitignore` file does
-- How to go 'back in time' (with things like `reset` and checking out to an 
-older commit)
 
 ### Advanced
 
