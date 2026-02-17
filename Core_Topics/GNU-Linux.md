@@ -21,7 +21,6 @@ shell that is somewhat close to bash (for example, sh, zsh, dash).
 By the end, novice partipants should be able to:
 
 - Explain what GNU/Linux is and why it is commonly used on HPC servers
-- Explain the basics of the Linux file hierarchy structure standard (FHS)
 - Navigate/Interact with the file system with ease (using `cd`, `mkdir`, `ls`,
 `cat` *etc.*)
 - Explain what is meant by the `PATH` environment variable
@@ -39,6 +38,7 @@ By the end, novice partipants should be able to:
 By the end, intermediate partipants should be able to:
 
 - Know some basic GNU core utils (`awk`, `find`, `sed`, *etc.*)
+- Explain the basics of the Linux file hierarchy structure standard (FHS)
 - Know what a 'man' page is and how to access and read them
 - Understand terms like 'kernel', 'userspace', 'shell' (*etc.*)
 - Explain what an 'rc' file is
