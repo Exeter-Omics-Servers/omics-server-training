@@ -76,6 +76,12 @@ internet to fill said gap in.
     - *e.g* for permissions, get them to use `sudo` to play around with the
     permissions of some file (can they read it? can they write to it? can they
     execute it? who can/cannot?)
+        - Note that git BASH doesn't actually handle file system operations
+        properly. You can't actually change file permissions properly (you'll
+        always have permissions to do everything) as it is still using the
+        windows file system.
+        - If this becomes a sticking point, it might be necessary to have users
+        use ISCA or pigeon itself (not sure on this)
 - Use games to aid in understanding and remembering
     - *e.g.* a game of "taboo" might be fun. Participants can split into teams
     and each team must describe terms from the course without using certain
