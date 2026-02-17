@@ -78,8 +78,8 @@ comfortable with the process.
 
 Create a branch and change the same line of a file on two branches, merge these
 branches to create a merge conflict.
-Participants should then be taught what the 'funny <<<<< >>>>>> =====' lines
-mean and subsequently how to resolve the conflict.
+Participants should then be taught what the funny `<<<<<` `>>>>>>` `=====`
+lines mean and subsequently how to resolve the conflict.
 
 ### Chatting in pairs
 
