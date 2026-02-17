@@ -70,6 +70,7 @@ learn about:
 Create a git repository
 Make a text file, add and commit it
 Change the text file, add and commit it
+Revert a change
 
 This is indeed simple, but the main thing here is getting participants
 comfortable with the process.
