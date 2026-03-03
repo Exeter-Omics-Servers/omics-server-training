@@ -59,6 +59,8 @@ learn about:
 - File transfer with SCP, Rsync (*etc.*)
 - Remaining enivronment variables
 - Running process monitoring with `ps`, `top`, `pgrep` (*etc.*)
+- Understand more advanced topics in permissions (sticky bit, suid, sgid) and
+where these are used
 
 ## Proposed activities
 
