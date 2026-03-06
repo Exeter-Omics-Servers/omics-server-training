@@ -42,6 +42,8 @@ packages hosted on anaconda repositories
 - How to point conda to a centralised packages directory to aid in caching and
 reduce total space taken up by all users
     - either via `.condarc` or environment variables
+- Be aware of the security implications of downloading packages because
+'someone/AI told me to'
 
 ### Advanced
 
