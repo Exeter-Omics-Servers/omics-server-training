@@ -10,6 +10,7 @@ shell that is somewhat close to bash (for example, sh, zsh, dash).
     - WSL -> Can be intimidating to set up for some partipants
     - Git Bash -> Easy to install, won't have all features but basic shell
     operations are possible
+    - MobaXterm -> Comes with windows port of bash and separate file system
     - Powershell is too dissimilar to bash to be used here
 - ChromeOS users hopefully don't exist
 - Other users probably won't need to be on this course
